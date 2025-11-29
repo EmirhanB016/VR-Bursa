@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Liman.unity
+    guid: 319dafa5c80f29f428dc1e0d03f04177
+  - enabled: 1
+    path: "Assets/Scenes/G\xF6l.unity"
+    guid: 6ca97bfd453d9ed40851eece2c11b225
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 27c08ee926fc81442bde73d3c002bd02, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
