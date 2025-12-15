@@ -264,7 +264,7 @@ GameObject:
   - component: {fileID: 258225334}
   - component: {fileID: 258225333}
   m_Layer: 0
-  m_Name: Plane (11)
+  m_Name: "Cumal\u0131k\u0131z\u0131k"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -376,7 +376,7 @@ GameObject:
   - component: {fileID: 362068801}
   - component: {fileID: 362068800}
   m_Layer: 0
-  m_Name: Plane (7)
+  m_Name: Heykel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -488,7 +488,7 @@ GameObject:
   - component: {fileID: 511535511}
   - component: {fileID: 511535510}
   m_Layer: 0
-  m_Name: Plane (2)
+  m_Name: "Ye\u015FilT\xFCrbe"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -600,7 +600,7 @@ GameObject:
   - component: {fileID: 640884799}
   - component: {fileID: 640884798}
   m_Layer: 0
-  m_Name: Plane (9)
+  m_Name: "MuradiyeK\xFCliiyesi"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -712,7 +712,7 @@ GameObject:
   - component: {fileID: 706302842}
   - component: {fileID: 706302841}
   m_Layer: 0
-  m_Name: Plane (6)
+  m_Name: Tophane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -824,7 +824,7 @@ GameObject:
   - component: {fileID: 771777067}
   - component: {fileID: 771777066}
   m_Layer: 0
-  m_Name: Plane (3)
+  m_Name: "\u0130nkaya"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1303,7 +1303,7 @@ GameObject:
   - component: {fileID: 1033870098}
   - component: {fileID: 1033870097}
   m_Layer: 0
-  m_Name: Plane (5)
+  m_Name: UluCami
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1415,7 +1415,7 @@ GameObject:
   - component: {fileID: 1087024103}
   - component: {fileID: 1087024102}
   m_Layer: 0
-  m_Name: Plane (10)
+  m_Name: "Kapal\u0131\xC7ar\u015F\u0131"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1527,7 +1527,7 @@ GameObject:
   - component: {fileID: 1410526648}
   - component: {fileID: 1410526647}
   m_Layer: 0
-  m_Name: Plane (8)
+  m_Name: "Irgand\u0131K\xF6pr\xFCs\xFC"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1639,7 +1639,7 @@ GameObject:
   - component: {fileID: 1432582918}
   - component: {fileID: 1432582917}
   m_Layer: 0
-  m_Name: Plane
+  m_Name: OkulLogo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1970,7 +1970,7 @@ GameObject:
   - component: {fileID: 1841061239}
   - component: {fileID: 1841061238}
   m_Layer: 0
-  m_Name: Plane (4)
+  m_Name: Kozahan
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
