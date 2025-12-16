@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/lobi.unity
+    guid: 708a5a8ff2594f54192f4c7b8e9b03bf
+  - enabled: 1
     path: Assets/Scenes/CumaliKizik.unity
     guid: 450b2d0aec23bbe4989177752b6b036d
   - enabled: 1
