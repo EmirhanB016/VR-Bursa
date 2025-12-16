@@ -1407,7 +1407,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: CumaliKizik
+      value: Kozahan
       objectReference: {fileID: 0}
     - target: {fileID: 5795189639850769732, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SizeDelta.x
@@ -1431,7 +1431,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_text
-      value: "Cumal\u0131k\u0131z\u0131k"
+      value: Kozahan
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_fontSize
@@ -2364,7 +2364,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: CumaliKizik
+      value: YesilTurbe
       objectReference: {fileID: 0}
     - target: {fileID: 5795189639850769732, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SizeDelta.x
@@ -2388,7 +2388,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_text
-      value: "Cumal\u0131k\u0131z\u0131k"
+      value: "Ye\u015Fil T\xFCrbe\n"
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_fontSize
@@ -2545,7 +2545,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: CumaliKizik
+      value: MuradiyeKulliyesi
       objectReference: {fileID: 0}
     - target: {fileID: 5795189639850769732, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SizeDelta.x
@@ -2569,7 +2569,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_text
-      value: "Cumal\u0131k\u0131z\u0131k"
+      value: "Muradiye K\xFClliyesi"
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_fontSize
@@ -3241,7 +3241,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: CumaliKizik
+      value: Tophane
       objectReference: {fileID: 0}
     - target: {fileID: 5795189639850769732, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SizeDelta.x
@@ -3265,7 +3265,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_text
-      value: "Cumal\u0131k\u0131z\u0131k"
+      value: 'Tophane
+
+'
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_fontSize
@@ -3444,7 +3446,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: CumaliKizik
+      value: UluCami
       objectReference: {fileID: 0}
     - target: {fileID: 5795189639850769732, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SizeDelta.x
@@ -3468,7 +3470,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_text
-      value: "Cumal\u0131k\u0131z\u0131k"
+      value: Ulu Cami
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_fontSize
@@ -4079,7 +4081,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_text
-      value: "\u0130nkaya"
+      value: "\u0130nkaya \xC7\u0131nar\u0131"
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_fontSize
