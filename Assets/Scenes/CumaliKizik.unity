@@ -1354,6 +1354,14 @@ PrefabInstance:
         Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
         \xF6rne\u011Fidir."
       objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSize
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Resource
       value: 
@@ -1963,6 +1971,14 @@ PrefabInstance:
         Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
         \xF6rne\u011Fidir."
       objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSize
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Resource
       value: 
@@ -2058,6 +2074,14 @@ PrefabInstance:
         Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
         \xF6rne\u011Fidir."
       objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSize
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Resource
       value: 
@@ -2152,6 +2176,14 @@ PrefabInstance:
         sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
         Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
         \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSize
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Resource
@@ -2349,6 +2381,14 @@ PrefabInstance:
         sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
         Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
         \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSize
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Resource
@@ -5823,6 +5863,14 @@ PrefabInstance:
         Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
         \xF6rne\u011Fidir."
       objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSize
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Resource
       value: 
@@ -7305,6 +7353,14 @@ PrefabInstance:
         sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
         Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
         \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSize
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Resource
@@ -8957,6 +9013,14 @@ PrefabInstance:
         Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
         \xF6rne\u011Fidir."
       objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSize
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Resource
       value: 
@@ -10541,6 +10605,14 @@ PrefabInstance:
         Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
         \xF6rne\u011Fidir."
       objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSize
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Resource
       value: 
@@ -10872,6 +10944,14 @@ PrefabInstance:
         Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
         \xF6rne\u011Fidir."
       objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSize
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Resource
       value: 
@@ -11084,6 +11164,14 @@ PrefabInstance:
         sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
         Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
         \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSize
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Resource
@@ -12153,6 +12241,14 @@ PrefabInstance:
         sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
         Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
         \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSize
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Resource
@@ -13937,6 +14033,14 @@ PrefabInstance:
         Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
         \xF6rne\u011Fidir."
       objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSize
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Resource
       value: 
@@ -14067,6 +14171,14 @@ PrefabInstance:
         Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
         \xF6rne\u011Fidir."
       objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSize
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Resource
       value: 
@@ -14161,6 +14273,14 @@ PrefabInstance:
         sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
         Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
         \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSize
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Resource
@@ -14939,6 +15059,14 @@ PrefabInstance:
         sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
         Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
         \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSize
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Resource
