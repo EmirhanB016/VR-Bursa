@@ -815,11 +815,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3113285601813651840, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0.616
+      value: 2.948
       objectReference: {fileID: 0}
     - target: {fileID: 3113285601813651840, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -0.11617994
+      value: -0.241
       objectReference: {fileID: 0}
     - target: {fileID: 3113285601813651840, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -15709,11 +15709,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3113285601813651840, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 1.1468201
+      value: 3.898
       objectReference: {fileID: 0}
     - target: {fileID: 3113285601813651840, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -0.11617994
+      value: 1.144
       objectReference: {fileID: 0}
     - target: {fileID: 3113285601813651840, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -16419,9 +16419,42 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Kurulu\u015Fu 1300'l\xFC y\u0131llara dayanan, erken Osmanl\u0131 d\xF6nemi
+        sivil mimari dokusunu korumu\u015F bir vak\u0131f k\xF6y\xFCd\xFCr. Ta\u015F,
+        ah\u015Fap ve kerpi\xE7 kullan\u0131larak in\u015Fa edilen evleri ve \xF6zg\xFCn
+        sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
+        Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
+        \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSize
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 22
+      objectReference: {fileID: 0}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 508.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 329.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -4.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -84.85
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
