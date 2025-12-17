@@ -1125,6 +1125,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: BilgiNoktasi2
       objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 399.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 280.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -29.95
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1401,6 +1417,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: BilgiNoktasi2
       objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 399.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 280.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -29.95
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1596,6 +1628,22 @@ PrefabInstance:
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 399.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 280.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -29.95
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5861,6 +5909,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: BilgiNoktasi2
       objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 399.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 280.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -29.95
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7496,6 +7560,22 @@ PrefabInstance:
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 399.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 280.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -29.95
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9203,6 +9283,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: BilgiNoktasi2
       objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 399.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 280.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -29.95
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9517,6 +9613,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: BilgiNoktasi2
       objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 399.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 280.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -29.95
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9594,6 +9706,22 @@ PrefabInstance:
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 399.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 280.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -29.95
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10411,6 +10539,22 @@ PrefabInstance:
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 399.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 280.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -29.95
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12615,6 +12759,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: BilgiNoktasi2
       objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 399.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 280.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -29.95
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12847,6 +13007,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: BilgiNoktasi2
       objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 399.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 280.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -29.95
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12924,6 +13100,22 @@ PrefabInstance:
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 399.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 280.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -29.95
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13686,6 +13878,22 @@ PrefabInstance:
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 399.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 280.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -29.95
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15439,6 +15647,22 @@ PrefabInstance:
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 399.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 280.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -13
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270645212226449836, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -29.95
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
