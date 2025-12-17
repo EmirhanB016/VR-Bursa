@@ -1345,6 +1345,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Kurulu\u015Fu 1300'l\xFC y\u0131llara dayanan, erken Osmanl\u0131 d\xF6nemi
+        sivil mimari dokusunu korumu\u015F bir vak\u0131f k\xF6y\xFCd\xFCr. Ta\u015F,
+        ah\u015Fap ve kerpi\xE7 kullan\u0131larak in\u015Fa edilen evleri ve \xF6zg\xFCn
+        sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
+        Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
+        \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 9836a0ce87d5aa549a5bff3a6f74d720, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -1925,6 +1938,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Kurulu\u015Fu 1300'l\xFC y\u0131llara dayanan, erken Osmanl\u0131 d\xF6nemi
+        sivil mimari dokusunu korumu\u015F bir vak\u0131f k\xF6y\xFCd\xFCr. Ta\u015F,
+        ah\u015Fap ve kerpi\xE7 kullan\u0131larak in\u015Fa edilen evleri ve \xF6zg\xFCn
+        sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
+        Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
+        \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 9836a0ce87d5aa549a5bff3a6f74d720, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -1991,6 +2017,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Kurulu\u015Fu 1300'l\xFC y\u0131llara dayanan, erken Osmanl\u0131 d\xF6nemi
+        sivil mimari dokusunu korumu\u015F bir vak\u0131f k\xF6y\xFCd\xFCr. Ta\u015F,
+        ah\u015Fap ve kerpi\xE7 kullan\u0131larak in\u015Fa edilen evleri ve \xF6zg\xFCn
+        sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
+        Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
+        \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 9836a0ce87d5aa549a5bff3a6f74d720, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -2057,6 +2096,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Kurulu\u015Fu 1300'l\xFC y\u0131llara dayanan, erken Osmanl\u0131 d\xF6nemi
+        sivil mimari dokusunu korumu\u015F bir vak\u0131f k\xF6y\xFCd\xFCr. Ta\u015F,
+        ah\u015Fap ve kerpi\xE7 kullan\u0131larak in\u015Fa edilen evleri ve \xF6zg\xFCn
+        sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
+        Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
+        \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 9836a0ce87d5aa549a5bff3a6f74d720, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -2225,6 +2277,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Kurulu\u015Fu 1300'l\xFC y\u0131llara dayanan, erken Osmanl\u0131 d\xF6nemi
+        sivil mimari dokusunu korumu\u015F bir vak\u0131f k\xF6y\xFCd\xFCr. Ta\u015F,
+        ah\u015Fap ve kerpi\xE7 kullan\u0131larak in\u015Fa edilen evleri ve \xF6zg\xFCn
+        sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
+        Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
+        \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 9836a0ce87d5aa549a5bff3a6f74d720, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -5669,6 +5734,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Kurulu\u015Fu 1300'l\xFC y\u0131llara dayanan, erken Osmanl\u0131 d\xF6nemi
+        sivil mimari dokusunu korumu\u015F bir vak\u0131f k\xF6y\xFCd\xFCr. Ta\u015F,
+        ah\u015Fap ve kerpi\xE7 kullan\u0131larak in\u015Fa edilen evleri ve \xF6zg\xFCn
+        sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
+        Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
+        \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 9836a0ce87d5aa549a5bff3a6f74d720, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -7123,6 +7201,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Kurulu\u015Fu 1300'l\xFC y\u0131llara dayanan, erken Osmanl\u0131 d\xF6nemi
+        sivil mimari dokusunu korumu\u015F bir vak\u0131f k\xF6y\xFCd\xFCr. Ta\u015F,
+        ah\u015Fap ve kerpi\xE7 kullan\u0131larak in\u015Fa edilen evleri ve \xF6zg\xFCn
+        sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
+        Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
+        \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 9836a0ce87d5aa549a5bff3a6f74d720, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -8745,6 +8836,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Kurulu\u015Fu 1300'l\xFC y\u0131llara dayanan, erken Osmanl\u0131 d\xF6nemi
+        sivil mimari dokusunu korumu\u015F bir vak\u0131f k\xF6y\xFCd\xFCr. Ta\u015F,
+        ah\u015Fap ve kerpi\xE7 kullan\u0131larak in\u015Fa edilen evleri ve \xF6zg\xFCn
+        sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
+        Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
+        \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 9836a0ce87d5aa549a5bff3a6f74d720, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -10300,6 +10404,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Kurulu\u015Fu 1300'l\xFC y\u0131llara dayanan, erken Osmanl\u0131 d\xF6nemi
+        sivil mimari dokusunu korumu\u015F bir vak\u0131f k\xF6y\xFCd\xFCr. Ta\u015F,
+        ah\u015Fap ve kerpi\xE7 kullan\u0131larak in\u015Fa edilen evleri ve \xF6zg\xFCn
+        sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
+        Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
+        \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 9836a0ce87d5aa549a5bff3a6f74d720, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -10602,6 +10719,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Kurulu\u015Fu 1300'l\xFC y\u0131llara dayanan, erken Osmanl\u0131 d\xF6nemi
+        sivil mimari dokusunu korumu\u015F bir vak\u0131f k\xF6y\xFCd\xFCr. Ta\u015F,
+        ah\u015Fap ve kerpi\xE7 kullan\u0131larak in\u015Fa edilen evleri ve \xF6zg\xFCn
+        sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
+        Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
+        \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 9836a0ce87d5aa549a5bff3a6f74d720, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -10786,6 +10916,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Kurulu\u015Fu 1300'l\xFC y\u0131llara dayanan, erken Osmanl\u0131 d\xF6nemi
+        sivil mimari dokusunu korumu\u015F bir vak\u0131f k\xF6y\xFCd\xFCr. Ta\u015F,
+        ah\u015Fap ve kerpi\xE7 kullan\u0131larak in\u015Fa edilen evleri ve \xF6zg\xFCn
+        sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
+        Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
+        \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 9836a0ce87d5aa549a5bff3a6f74d720, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -11826,6 +11969,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Kurulu\u015Fu 1300'l\xFC y\u0131llara dayanan, erken Osmanl\u0131 d\xF6nemi
+        sivil mimari dokusunu korumu\u015F bir vak\u0131f k\xF6y\xFCd\xFCr. Ta\u015F,
+        ah\u015Fap ve kerpi\xE7 kullan\u0131larak in\u015Fa edilen evleri ve \xF6zg\xFCn
+        sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
+        Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
+        \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 9836a0ce87d5aa549a5bff3a6f74d720, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -13580,6 +13736,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Kurulu\u015Fu 1300'l\xFC y\u0131llara dayanan, erken Osmanl\u0131 d\xF6nemi
+        sivil mimari dokusunu korumu\u015F bir vak\u0131f k\xF6y\xFCd\xFCr. Ta\u015F,
+        ah\u015Fap ve kerpi\xE7 kullan\u0131larak in\u015Fa edilen evleri ve \xF6zg\xFCn
+        sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
+        Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
+        \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 9836a0ce87d5aa549a5bff3a6f74d720, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -13681,6 +13850,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Kurulu\u015Fu 1300'l\xFC y\u0131llara dayanan, erken Osmanl\u0131 d\xF6nemi
+        sivil mimari dokusunu korumu\u015F bir vak\u0131f k\xF6y\xFCd\xFCr. Ta\u015F,
+        ah\u015Fap ve kerpi\xE7 kullan\u0131larak in\u015Fa edilen evleri ve \xF6zg\xFCn
+        sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
+        Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
+        \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 9836a0ce87d5aa549a5bff3a6f74d720, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -13747,6 +13929,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Kurulu\u015Fu 1300'l\xFC y\u0131llara dayanan, erken Osmanl\u0131 d\xF6nemi
+        sivil mimari dokusunu korumu\u015F bir vak\u0131f k\xF6y\xFCd\xFCr. Ta\u015F,
+        ah\u015Fap ve kerpi\xE7 kullan\u0131larak in\u015Fa edilen evleri ve \xF6zg\xFCn
+        sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
+        Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
+        \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 9836a0ce87d5aa549a5bff3a6f74d720, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -14496,6 +14691,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Kurulu\u015Fu 1300'l\xFC y\u0131llara dayanan, erken Osmanl\u0131 d\xF6nemi
+        sivil mimari dokusunu korumu\u015F bir vak\u0131f k\xF6y\xFCd\xFCr. Ta\u015F,
+        ah\u015Fap ve kerpi\xE7 kullan\u0131larak in\u015Fa edilen evleri ve \xF6zg\xFCn
+        sokak yap\u0131s\u0131 ile UNESCO D\xFCnya Miras\u0131 Listesi'nde yer al\u0131r.
+        Geleneksel Osmanl\u0131 k\xF6y yerle\u015Fiminin g\xFCn\xFCm\xFCze ula\u015Fm\u0131\u015F
+        \xF6rne\u011Fidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 9836a0ce87d5aa549a5bff3a6f74d720, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2

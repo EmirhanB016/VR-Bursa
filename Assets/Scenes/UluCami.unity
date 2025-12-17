@@ -809,6 +809,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1396-1399 y\u0131llar\u0131 aras\u0131nda Y\u0131ld\u0131r\u0131m Bayezid
+        taraf\u0131ndan Ni\u011Fbolu Zaferi an\u0131s\u0131na yapt\u0131r\u0131lm\u0131\u015Ft\u0131r.
+        Erken Osmanl\u0131 mimarisinin \xE7ok kubbeli ve an\u0131tsal bir \xF6rne\u011Fidir.
+        Yap\u0131, yirmi adet kubbesi, i\xE7 mekanda bulunan \u015Fad\u0131rvan\u0131,
+        k\xFCndekari tekni\u011Fiyle yap\u0131lm\u0131\u015F ah\u015Fap minberi ve
+        duvarlar\u0131ndaki hat sanat\u0131 levhalar\u0131 ile tan\u0131n\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 25af078e369793e4eb02be6af2cbaf83, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -3195,6 +3208,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1396-1399 y\u0131llar\u0131 aras\u0131nda Y\u0131ld\u0131r\u0131m Bayezid
+        taraf\u0131ndan Ni\u011Fbolu Zaferi an\u0131s\u0131na yapt\u0131r\u0131lm\u0131\u015Ft\u0131r.
+        Erken Osmanl\u0131 mimarisinin \xE7ok kubbeli ve an\u0131tsal bir \xF6rne\u011Fidir.
+        Yap\u0131, yirmi adet kubbesi, i\xE7 mekanda bulunan \u015Fad\u0131rvan\u0131,
+        k\xFCndekari tekni\u011Fiyle yap\u0131lm\u0131\u015F ah\u015Fap minberi ve
+        duvarlar\u0131ndaki hat sanat\u0131 levhalar\u0131 ile tan\u0131n\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 25af078e369793e4eb02be6af2cbaf83, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -3850,6 +3876,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1396-1399 y\u0131llar\u0131 aras\u0131nda Y\u0131ld\u0131r\u0131m Bayezid
+        taraf\u0131ndan Ni\u011Fbolu Zaferi an\u0131s\u0131na yapt\u0131r\u0131lm\u0131\u015Ft\u0131r.
+        Erken Osmanl\u0131 mimarisinin \xE7ok kubbeli ve an\u0131tsal bir \xF6rne\u011Fidir.
+        Yap\u0131, yirmi adet kubbesi, i\xE7 mekanda bulunan \u015Fad\u0131rvan\u0131,
+        k\xFCndekari tekni\u011Fiyle yap\u0131lm\u0131\u015F ah\u015Fap minberi ve
+        duvarlar\u0131ndaki hat sanat\u0131 levhalar\u0131 ile tan\u0131n\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 25af078e369793e4eb02be6af2cbaf83, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -4532,6 +4571,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1396-1399 y\u0131llar\u0131 aras\u0131nda Y\u0131ld\u0131r\u0131m Bayezid
+        taraf\u0131ndan Ni\u011Fbolu Zaferi an\u0131s\u0131na yapt\u0131r\u0131lm\u0131\u015Ft\u0131r.
+        Erken Osmanl\u0131 mimarisinin \xE7ok kubbeli ve an\u0131tsal bir \xF6rne\u011Fidir.
+        Yap\u0131, yirmi adet kubbesi, i\xE7 mekanda bulunan \u015Fad\u0131rvan\u0131,
+        k\xFCndekari tekni\u011Fiyle yap\u0131lm\u0131\u015F ah\u015Fap minberi ve
+        duvarlar\u0131ndaki hat sanat\u0131 levhalar\u0131 ile tan\u0131n\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 25af078e369793e4eb02be6af2cbaf83, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -6665,6 +6717,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1396-1399 y\u0131llar\u0131 aras\u0131nda Y\u0131ld\u0131r\u0131m Bayezid
+        taraf\u0131ndan Ni\u011Fbolu Zaferi an\u0131s\u0131na yapt\u0131r\u0131lm\u0131\u015Ft\u0131r.
+        Erken Osmanl\u0131 mimarisinin \xE7ok kubbeli ve an\u0131tsal bir \xF6rne\u011Fidir.
+        Yap\u0131, yirmi adet kubbesi, i\xE7 mekanda bulunan \u015Fad\u0131rvan\u0131,
+        k\xFCndekari tekni\u011Fiyle yap\u0131lm\u0131\u015F ah\u015Fap minberi ve
+        duvarlar\u0131ndaki hat sanat\u0131 levhalar\u0131 ile tan\u0131n\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 25af078e369793e4eb02be6af2cbaf83, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -6885,6 +6950,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1396-1399 y\u0131llar\u0131 aras\u0131nda Y\u0131ld\u0131r\u0131m Bayezid
+        taraf\u0131ndan Ni\u011Fbolu Zaferi an\u0131s\u0131na yapt\u0131r\u0131lm\u0131\u015Ft\u0131r.
+        Erken Osmanl\u0131 mimarisinin \xE7ok kubbeli ve an\u0131tsal bir \xF6rne\u011Fidir.
+        Yap\u0131, yirmi adet kubbesi, i\xE7 mekanda bulunan \u015Fad\u0131rvan\u0131,
+        k\xFCndekari tekni\u011Fiyle yap\u0131lm\u0131\u015F ah\u015Fap minberi ve
+        duvarlar\u0131ndaki hat sanat\u0131 levhalar\u0131 ile tan\u0131n\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 25af078e369793e4eb02be6af2cbaf83, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -7517,6 +7595,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1396-1399 y\u0131llar\u0131 aras\u0131nda Y\u0131ld\u0131r\u0131m Bayezid
+        taraf\u0131ndan Ni\u011Fbolu Zaferi an\u0131s\u0131na yapt\u0131r\u0131lm\u0131\u015Ft\u0131r.
+        Erken Osmanl\u0131 mimarisinin \xE7ok kubbeli ve an\u0131tsal bir \xF6rne\u011Fidir.
+        Yap\u0131, yirmi adet kubbesi, i\xE7 mekanda bulunan \u015Fad\u0131rvan\u0131,
+        k\xFCndekari tekni\u011Fiyle yap\u0131lm\u0131\u015F ah\u015Fap minberi ve
+        duvarlar\u0131ndaki hat sanat\u0131 levhalar\u0131 ile tan\u0131n\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 25af078e369793e4eb02be6af2cbaf83, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -8920,6 +9011,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1396-1399 y\u0131llar\u0131 aras\u0131nda Y\u0131ld\u0131r\u0131m Bayezid
+        taraf\u0131ndan Ni\u011Fbolu Zaferi an\u0131s\u0131na yapt\u0131r\u0131lm\u0131\u015Ft\u0131r.
+        Erken Osmanl\u0131 mimarisinin \xE7ok kubbeli ve an\u0131tsal bir \xF6rne\u011Fidir.
+        Yap\u0131, yirmi adet kubbesi, i\xE7 mekanda bulunan \u015Fad\u0131rvan\u0131,
+        k\xFCndekari tekni\u011Fiyle yap\u0131lm\u0131\u015F ah\u015Fap minberi ve
+        duvarlar\u0131ndaki hat sanat\u0131 levhalar\u0131 ile tan\u0131n\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 25af078e369793e4eb02be6af2cbaf83, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi

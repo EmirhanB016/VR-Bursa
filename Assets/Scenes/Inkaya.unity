@@ -2130,6 +2130,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Uluda\u011F yolu \xFCzerinde, \u0130nkaya Mahallesi s\u0131n\u0131rlar\u0131
+        i\xE7inde bulunan an\u0131t a\u011Fa\xE7t\u0131r. Yakla\u015F\u0131k 600
+        ya\u015F\u0131nda olan \xE7\u0131nar, 3 metre \xE7ap\u0131 ve 35 metreyi
+        bulan y\xFCksekli\u011Fi ile fiziki olarak T\xFCrkiye'nin en b\xFCy\xFCk
+        a\u011Fa\xE7lar\u0131ndan biridir. 13 ana kola sahiptir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: e3ff06c5e16604f409e7d66ec500a73b, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -2710,6 +2722,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Uluda\u011F yolu \xFCzerinde, \u0130nkaya Mahallesi s\u0131n\u0131rlar\u0131
+        i\xE7inde bulunan an\u0131t a\u011Fa\xE7t\u0131r. Yakla\u015F\u0131k 600
+        ya\u015F\u0131nda olan \xE7\u0131nar, 3 metre \xE7ap\u0131 ve 35 metreyi
+        bulan y\xFCksekli\u011Fi ile fiziki olarak T\xFCrkiye'nin en b\xFCy\xFCk
+        a\u011Fa\xE7lar\u0131ndan biridir. 13 ana kola sahiptir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: e3ff06c5e16604f409e7d66ec500a73b, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -3857,6 +3881,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Uluda\u011F yolu \xFCzerinde, \u0130nkaya Mahallesi s\u0131n\u0131rlar\u0131
+        i\xE7inde bulunan an\u0131t a\u011Fa\xE7t\u0131r. Yakla\u015F\u0131k 600
+        ya\u015F\u0131nda olan \xE7\u0131nar, 3 metre \xE7ap\u0131 ve 35 metreyi
+        bulan y\xFCksekli\u011Fi ile fiziki olarak T\xFCrkiye'nin en b\xFCy\xFCk
+        a\u011Fa\xE7lar\u0131ndan biridir. 13 ana kola sahiptir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: e3ff06c5e16604f409e7d66ec500a73b, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -4327,6 +4363,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Uluda\u011F yolu \xFCzerinde, \u0130nkaya Mahallesi s\u0131n\u0131rlar\u0131
+        i\xE7inde bulunan an\u0131t a\u011Fa\xE7t\u0131r. Yakla\u015F\u0131k 600
+        ya\u015F\u0131nda olan \xE7\u0131nar, 3 metre \xE7ap\u0131 ve 35 metreyi
+        bulan y\xFCksekli\u011Fi ile fiziki olarak T\xFCrkiye'nin en b\xFCy\xFCk
+        a\u011Fa\xE7lar\u0131ndan biridir. 13 ana kola sahiptir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: e3ff06c5e16604f409e7d66ec500a73b, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -5746,6 +5794,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Uluda\u011F yolu \xFCzerinde, \u0130nkaya Mahallesi s\u0131n\u0131rlar\u0131
+        i\xE7inde bulunan an\u0131t a\u011Fa\xE7t\u0131r. Yakla\u015F\u0131k 600
+        ya\u015F\u0131nda olan \xE7\u0131nar, 3 metre \xE7ap\u0131 ve 35 metreyi
+        bulan y\xFCksekli\u011Fi ile fiziki olarak T\xFCrkiye'nin en b\xFCy\xFCk
+        a\u011Fa\xE7lar\u0131ndan biridir. 13 ana kola sahiptir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: e3ff06c5e16604f409e7d66ec500a73b, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi

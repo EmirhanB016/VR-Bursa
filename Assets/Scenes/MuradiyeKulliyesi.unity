@@ -1827,6 +1827,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Sultan II. Murad taraf\u0131ndan 1425-1426 y\u0131llar\u0131 aras\u0131nda
+        yapt\u0131r\u0131lan, Bursa'daki son Osmanl\u0131 k\xFClliyesidir. \u0130\xE7erisinde
+        cami, medrese, hamam, dar\xFC\u015F\u015Fifa ve geni\u015F bir hazire alan\u0131
+        bulunur. Hazire b\xF6l\xFCm\xFCnde II. Murad'\u0131n yan\u0131 s\u0131ra
+        bir\xE7ok \u015Fehzade ve saray mensubunun t\xFCrbeleri yer almaktad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e603f9b593f3f74b8e1759ba69889ad, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -2289,6 +2301,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Sultan II. Murad taraf\u0131ndan 1425-1426 y\u0131llar\u0131 aras\u0131nda
+        yapt\u0131r\u0131lan, Bursa'daki son Osmanl\u0131 k\xFClliyesidir. \u0130\xE7erisinde
+        cami, medrese, hamam, dar\xFC\u015F\u015Fifa ve geni\u015F bir hazire alan\u0131
+        bulunur. Hazire b\xF6l\xFCm\xFCnde II. Murad'\u0131n yan\u0131 s\u0131ra
+        bir\xE7ok \u015Fehzade ve saray mensubunun t\xFCrbeleri yer almaktad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e603f9b593f3f74b8e1759ba69889ad, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -2355,6 +2379,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Sultan II. Murad taraf\u0131ndan 1425-1426 y\u0131llar\u0131 aras\u0131nda
+        yapt\u0131r\u0131lan, Bursa'daki son Osmanl\u0131 k\xFClliyesidir. \u0130\xE7erisinde
+        cami, medrese, hamam, dar\xFC\u015F\u015Fifa ve geni\u015F bir hazire alan\u0131
+        bulunur. Hazire b\xF6l\xFCm\xFCnde II. Murad'\u0131n yan\u0131 s\u0131ra
+        bir\xE7ok \u015Fehzade ve saray mensubunun t\xFCrbeleri yer almaktad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e603f9b593f3f74b8e1759ba69889ad, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -2523,6 +2559,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Sultan II. Murad taraf\u0131ndan 1425-1426 y\u0131llar\u0131 aras\u0131nda
+        yapt\u0131r\u0131lan, Bursa'daki son Osmanl\u0131 k\xFClliyesidir. \u0130\xE7erisinde
+        cami, medrese, hamam, dar\xFC\u015F\u015Fifa ve geni\u015F bir hazire alan\u0131
+        bulunur. Hazire b\xF6l\xFCm\xFCnde II. Murad'\u0131n yan\u0131 s\u0131ra
+        bir\xE7ok \u015Fehzade ve saray mensubunun t\xFCrbeleri yer almaktad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e603f9b593f3f74b8e1759ba69889ad, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -7563,6 +7611,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Sultan II. Murad taraf\u0131ndan 1425-1426 y\u0131llar\u0131 aras\u0131nda
+        yapt\u0131r\u0131lan, Bursa'daki son Osmanl\u0131 k\xFClliyesidir. \u0130\xE7erisinde
+        cami, medrese, hamam, dar\xFC\u015F\u015Fifa ve geni\u015F bir hazire alan\u0131
+        bulunur. Hazire b\xF6l\xFCm\xFCnde II. Murad'\u0131n yan\u0131 s\u0131ra
+        bir\xE7ok \u015Fehzade ve saray mensubunun t\xFCrbeleri yer almaktad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e603f9b593f3f74b8e1759ba69889ad, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -8421,6 +8481,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Sultan II. Murad taraf\u0131ndan 1425-1426 y\u0131llar\u0131 aras\u0131nda
+        yapt\u0131r\u0131lan, Bursa'daki son Osmanl\u0131 k\xFClliyesidir. \u0130\xE7erisinde
+        cami, medrese, hamam, dar\xFC\u015F\u015Fifa ve geni\u015F bir hazire alan\u0131
+        bulunur. Hazire b\xF6l\xFCm\xFCnde II. Murad'\u0131n yan\u0131 s\u0131ra
+        bir\xE7ok \u015Fehzade ve saray mensubunun t\xFCrbeleri yer almaktad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e603f9b593f3f74b8e1759ba69889ad, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -9117,6 +9189,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Sultan II. Murad taraf\u0131ndan 1425-1426 y\u0131llar\u0131 aras\u0131nda
+        yapt\u0131r\u0131lan, Bursa'daki son Osmanl\u0131 k\xFClliyesidir. \u0130\xE7erisinde
+        cami, medrese, hamam, dar\xFC\u015F\u015Fifa ve geni\u015F bir hazire alan\u0131
+        bulunur. Hazire b\xF6l\xFCm\xFCnde II. Murad'\u0131n yan\u0131 s\u0131ra
+        bir\xE7ok \u015Fehzade ve saray mensubunun t\xFCrbeleri yer almaktad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e603f9b593f3f74b8e1759ba69889ad, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -9403,6 +9487,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Sultan II. Murad taraf\u0131ndan 1425-1426 y\u0131llar\u0131 aras\u0131nda
+        yapt\u0131r\u0131lan, Bursa'daki son Osmanl\u0131 k\xFClliyesidir. \u0130\xE7erisinde
+        cami, medrese, hamam, dar\xFC\u015F\u015Fifa ve geni\u015F bir hazire alan\u0131
+        bulunur. Hazire b\xF6l\xFCm\xFCnde II. Murad'\u0131n yan\u0131 s\u0131ra
+        bir\xE7ok \u015Fehzade ve saray mensubunun t\xFCrbeleri yer almaktad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e603f9b593f3f74b8e1759ba69889ad, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -11194,6 +11290,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Sultan II. Murad taraf\u0131ndan 1425-1426 y\u0131llar\u0131 aras\u0131nda
+        yapt\u0131r\u0131lan, Bursa'daki son Osmanl\u0131 k\xFClliyesidir. \u0130\xE7erisinde
+        cami, medrese, hamam, dar\xFC\u015F\u015Fifa ve geni\u015F bir hazire alan\u0131
+        bulunur. Hazire b\xF6l\xFCm\xFCnde II. Murad'\u0131n yan\u0131 s\u0131ra
+        bir\xE7ok \u015Fehzade ve saray mensubunun t\xFCrbeleri yer almaktad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e603f9b593f3f74b8e1759ba69889ad, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -11716,6 +11824,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Sultan II. Murad taraf\u0131ndan 1425-1426 y\u0131llar\u0131 aras\u0131nda
+        yapt\u0131r\u0131lan, Bursa'daki son Osmanl\u0131 k\xFClliyesidir. \u0130\xE7erisinde
+        cami, medrese, hamam, dar\xFC\u015F\u015Fifa ve geni\u015F bir hazire alan\u0131
+        bulunur. Hazire b\xF6l\xFCm\xFCnde II. Murad'\u0131n yan\u0131 s\u0131ra
+        bir\xE7ok \u015Fehzade ve saray mensubunun t\xFCrbeleri yer almaktad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e603f9b593f3f74b8e1759ba69889ad, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -11782,6 +11902,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Sultan II. Murad taraf\u0131ndan 1425-1426 y\u0131llar\u0131 aras\u0131nda
+        yapt\u0131r\u0131lan, Bursa'daki son Osmanl\u0131 k\xFClliyesidir. \u0130\xE7erisinde
+        cami, medrese, hamam, dar\xFC\u015F\u015Fifa ve geni\u015F bir hazire alan\u0131
+        bulunur. Hazire b\xF6l\xFCm\xFCnde II. Murad'\u0131n yan\u0131 s\u0131ra
+        bir\xE7ok \u015Fehzade ve saray mensubunun t\xFCrbeleri yer almaktad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e603f9b593f3f74b8e1759ba69889ad, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -12704,6 +12836,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Sultan II. Murad taraf\u0131ndan 1425-1426 y\u0131llar\u0131 aras\u0131nda
+        yapt\u0131r\u0131lan, Bursa'daki son Osmanl\u0131 k\xFClliyesidir. \u0130\xE7erisinde
+        cami, medrese, hamam, dar\xFC\u015F\u015Fifa ve geni\u015F bir hazire alan\u0131
+        bulunur. Hazire b\xF6l\xFCm\xFCnde II. Murad'\u0131n yan\u0131 s\u0131ra
+        bir\xE7ok \u015Fehzade ve saray mensubunun t\xFCrbeleri yer almaktad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e603f9b593f3f74b8e1759ba69889ad, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -15744,6 +15888,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Sultan II. Murad taraf\u0131ndan 1425-1426 y\u0131llar\u0131 aras\u0131nda
+        yapt\u0131r\u0131lan, Bursa'daki son Osmanl\u0131 k\xFClliyesidir. \u0130\xE7erisinde
+        cami, medrese, hamam, dar\xFC\u015F\u015Fifa ve geni\u015F bir hazire alan\u0131
+        bulunur. Hazire b\xF6l\xFCm\xFCnde II. Murad'\u0131n yan\u0131 s\u0131ra
+        bir\xE7ok \u015Fehzade ve saray mensubunun t\xFCrbeleri yer almaktad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e603f9b593f3f74b8e1759ba69889ad, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -15845,6 +16001,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Sultan II. Murad taraf\u0131ndan 1425-1426 y\u0131llar\u0131 aras\u0131nda
+        yapt\u0131r\u0131lan, Bursa'daki son Osmanl\u0131 k\xFClliyesidir. \u0130\xE7erisinde
+        cami, medrese, hamam, dar\xFC\u015F\u015Fifa ve geni\u015F bir hazire alan\u0131
+        bulunur. Hazire b\xF6l\xFCm\xFCnde II. Murad'\u0131n yan\u0131 s\u0131ra
+        bir\xE7ok \u015Fehzade ve saray mensubunun t\xFCrbeleri yer almaktad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e603f9b593f3f74b8e1759ba69889ad, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -15911,6 +16079,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Sultan II. Murad taraf\u0131ndan 1425-1426 y\u0131llar\u0131 aras\u0131nda
+        yapt\u0131r\u0131lan, Bursa'daki son Osmanl\u0131 k\xFClliyesidir. \u0130\xE7erisinde
+        cami, medrese, hamam, dar\xFC\u015F\u015Fifa ve geni\u015F bir hazire alan\u0131
+        bulunur. Hazire b\xF6l\xFCm\xFCnde II. Murad'\u0131n yan\u0131 s\u0131ra
+        bir\xE7ok \u015Fehzade ve saray mensubunun t\xFCrbeleri yer almaktad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e603f9b593f3f74b8e1759ba69889ad, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -16424,6 +16604,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Sultan II. Murad taraf\u0131ndan 1425-1426 y\u0131llar\u0131 aras\u0131nda
+        yapt\u0131r\u0131lan, Bursa'daki son Osmanl\u0131 k\xFClliyesidir. \u0130\xE7erisinde
+        cami, medrese, hamam, dar\xFC\u015F\u015Fifa ve geni\u015F bir hazire alan\u0131
+        bulunur. Hazire b\xF6l\xFCm\xFCnde II. Murad'\u0131n yan\u0131 s\u0131ra
+        bir\xE7ok \u015Fehzade ve saray mensubunun t\xFCrbeleri yer almaktad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e603f9b593f3f74b8e1759ba69889ad, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -16608,6 +16800,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Sultan II. Murad taraf\u0131ndan 1425-1426 y\u0131llar\u0131 aras\u0131nda
+        yapt\u0131r\u0131lan, Bursa'daki son Osmanl\u0131 k\xFClliyesidir. \u0130\xE7erisinde
+        cami, medrese, hamam, dar\xFC\u015F\u015Fifa ve geni\u015F bir hazire alan\u0131
+        bulunur. Hazire b\xF6l\xFCm\xFCnde II. Murad'\u0131n yan\u0131 s\u0131ra
+        bir\xE7ok \u015Fehzade ve saray mensubunun t\xFCrbeleri yer almaktad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e603f9b593f3f74b8e1759ba69889ad, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -16776,6 +16980,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Sultan II. Murad taraf\u0131ndan 1425-1426 y\u0131llar\u0131 aras\u0131nda
+        yapt\u0131r\u0131lan, Bursa'daki son Osmanl\u0131 k\xFClliyesidir. \u0130\xE7erisinde
+        cami, medrese, hamam, dar\xFC\u015F\u015Fifa ve geni\u015F bir hazire alan\u0131
+        bulunur. Hazire b\xF6l\xFCm\xFCnde II. Murad'\u0131n yan\u0131 s\u0131ra
+        bir\xE7ok \u015Fehzade ve saray mensubunun t\xFCrbeleri yer almaktad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e603f9b593f3f74b8e1759ba69889ad, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -18297,6 +18513,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Sultan II. Murad taraf\u0131ndan 1425-1426 y\u0131llar\u0131 aras\u0131nda
+        yapt\u0131r\u0131lan, Bursa'daki son Osmanl\u0131 k\xFClliyesidir. \u0130\xE7erisinde
+        cami, medrese, hamam, dar\xFC\u015F\u015Fifa ve geni\u015F bir hazire alan\u0131
+        bulunur. Hazire b\xF6l\xFCm\xFCnde II. Murad'\u0131n yan\u0131 s\u0131ra
+        bir\xE7ok \u015Fehzade ve saray mensubunun t\xFCrbeleri yer almaktad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 0e603f9b593f3f74b8e1759ba69889ad, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi

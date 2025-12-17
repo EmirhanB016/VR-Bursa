@@ -1297,6 +1297,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Bursa \u015Fehir merkezi olarak kabul edilen, Cumhuriyet Meydan\u0131
+        olarak da bilinen aland\u0131r. Meydan\u0131n odak noktas\u0131nda, heykelt\u0131ra\u015F
+        Heinrich Krippel taraf\u0131ndan yap\u0131lan ve 1931 y\u0131l\u0131nda a\xE7\u0131l\u0131\u015F\u0131
+        ger\xE7ekle\u015Ftirilen Atat\xFCrk An\u0131t\u0131 bulunur. Cumhuriyet d\xF6nemi
+        \u015Fehir planlamas\u0131n\u0131n \xF6nemli bir simgesidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: a27410a6f81ca1f44ad0ffd1f8596049, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -2572,6 +2584,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Bursa \u015Fehir merkezi olarak kabul edilen, Cumhuriyet Meydan\u0131
+        olarak da bilinen aland\u0131r. Meydan\u0131n odak noktas\u0131nda, heykelt\u0131ra\u015F
+        Heinrich Krippel taraf\u0131ndan yap\u0131lan ve 1931 y\u0131l\u0131nda a\xE7\u0131l\u0131\u015F\u0131
+        ger\xE7ekle\u015Ftirilen Atat\xFCrk An\u0131t\u0131 bulunur. Cumhuriyet d\xF6nemi
+        \u015Fehir planlamas\u0131n\u0131n \xF6nemli bir simgesidir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: a27410a6f81ca1f44ad0ffd1f8596049, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi

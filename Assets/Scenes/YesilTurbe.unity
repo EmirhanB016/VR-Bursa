@@ -3042,6 +3042,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1421 y\u0131l\u0131nda \xC7elebi Sultan Mehmed taraf\u0131ndan yapt\u0131r\u0131lm\u0131\u015Ft\u0131r.
+        Mimar\u0131 Hac\u0131 \u0130vaz Pa\u015Fa'd\u0131r. \u015Eehrin simgesi haline
+        gelen yap\u0131, sekizgen prizma g\xF6vdeye ve konik bir kubbeye sahiptir.
+        D\u0131\u015F cephesi turkuaz renkli \xE7inilerle kapl\u0131 olup, Osmanl\u0131
+        mimarisinde cephesi \xE7ini ile kapl\u0131 tek t\xFCrbedir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: b18f84196ba2b8347a30644c0ebb6ed2, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -3896,6 +3908,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1421 y\u0131l\u0131nda \xC7elebi Sultan Mehmed taraf\u0131ndan yapt\u0131r\u0131lm\u0131\u015Ft\u0131r.
+        Mimar\u0131 Hac\u0131 \u0130vaz Pa\u015Fa'd\u0131r. \u015Eehrin simgesi haline
+        gelen yap\u0131, sekizgen prizma g\xF6vdeye ve konik bir kubbeye sahiptir.
+        D\u0131\u015F cephesi turkuaz renkli \xE7inilerle kapl\u0131 olup, Osmanl\u0131
+        mimarisinde cephesi \xE7ini ile kapl\u0131 tek t\xFCrbedir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: b18f84196ba2b8347a30644c0ebb6ed2, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -4224,6 +4248,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1421 y\u0131l\u0131nda \xC7elebi Sultan Mehmed taraf\u0131ndan yapt\u0131r\u0131lm\u0131\u015Ft\u0131r.
+        Mimar\u0131 Hac\u0131 \u0130vaz Pa\u015Fa'd\u0131r. \u015Eehrin simgesi haline
+        gelen yap\u0131, sekizgen prizma g\xF6vdeye ve konik bir kubbeye sahiptir.
+        D\u0131\u015F cephesi turkuaz renkli \xE7inilerle kapl\u0131 olup, Osmanl\u0131
+        mimarisinde cephesi \xE7ini ile kapl\u0131 tek t\xFCrbedir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: b18f84196ba2b8347a30644c0ebb6ed2, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -5725,6 +5761,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1421 y\u0131l\u0131nda \xC7elebi Sultan Mehmed taraf\u0131ndan yapt\u0131r\u0131lm\u0131\u015Ft\u0131r.
+        Mimar\u0131 Hac\u0131 \u0130vaz Pa\u015Fa'd\u0131r. \u015Eehrin simgesi haline
+        gelen yap\u0131, sekizgen prizma g\xF6vdeye ve konik bir kubbeye sahiptir.
+        D\u0131\u015F cephesi turkuaz renkli \xE7inilerle kapl\u0131 olup, Osmanl\u0131
+        mimarisinde cephesi \xE7ini ile kapl\u0131 tek t\xFCrbedir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: b18f84196ba2b8347a30644c0ebb6ed2, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -5827,6 +5875,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1421 y\u0131l\u0131nda \xC7elebi Sultan Mehmed taraf\u0131ndan yapt\u0131r\u0131lm\u0131\u015Ft\u0131r.
+        Mimar\u0131 Hac\u0131 \u0130vaz Pa\u015Fa'd\u0131r. \u015Eehrin simgesi haline
+        gelen yap\u0131, sekizgen prizma g\xF6vdeye ve konik bir kubbeye sahiptir.
+        D\u0131\u015F cephesi turkuaz renkli \xE7inilerle kapl\u0131 olup, Osmanl\u0131
+        mimarisinde cephesi \xE7ini ile kapl\u0131 tek t\xFCrbedir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: b18f84196ba2b8347a30644c0ebb6ed2, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -6459,6 +6519,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1421 y\u0131l\u0131nda \xC7elebi Sultan Mehmed taraf\u0131ndan yapt\u0131r\u0131lm\u0131\u015Ft\u0131r.
+        Mimar\u0131 Hac\u0131 \u0130vaz Pa\u015Fa'd\u0131r. \u015Eehrin simgesi haline
+        gelen yap\u0131, sekizgen prizma g\xF6vdeye ve konik bir kubbeye sahiptir.
+        D\u0131\u015F cephesi turkuaz renkli \xE7inilerle kapl\u0131 olup, Osmanl\u0131
+        mimarisinde cephesi \xE7ini ile kapl\u0131 tek t\xFCrbedir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: b18f84196ba2b8347a30644c0ebb6ed2, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -7862,6 +7934,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1421 y\u0131l\u0131nda \xC7elebi Sultan Mehmed taraf\u0131ndan yapt\u0131r\u0131lm\u0131\u015Ft\u0131r.
+        Mimar\u0131 Hac\u0131 \u0130vaz Pa\u015Fa'd\u0131r. \u015Eehrin simgesi haline
+        gelen yap\u0131, sekizgen prizma g\xF6vdeye ve konik bir kubbeye sahiptir.
+        D\u0131\u015F cephesi turkuaz renkli \xE7inilerle kapl\u0131 olup, Osmanl\u0131
+        mimarisinde cephesi \xE7ini ile kapl\u0131 tek t\xFCrbedir."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: b18f84196ba2b8347a30644c0ebb6ed2, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi

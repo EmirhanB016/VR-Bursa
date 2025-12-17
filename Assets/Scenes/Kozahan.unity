@@ -1989,6 +1989,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1491 y\u0131l\u0131nda II. Bayezid taraf\u0131ndan mimar Abd\xFCl ula
+        bin Pulat \u015Eah'a yapt\u0131r\u0131lm\u0131\u015Ft\u0131r. Tarihsel olarak
+        ipek kozas\u0131 ticaretinin merkezi olmu\u015Ftur. Dikd\xF6rtgen planl\u0131,
+        iki katl\u0131, geni\u015F avlulu bir yap\u0131d\u0131r. Avlunun tam ortas\u0131nda
+        alt\u0131 \u015Fad\u0131rvan, \xFCst\xFC mescit olan sekizgen bir k\xF6\u015Fk
+        bulunur."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 3e0beea8bbbb1fc4e98d78c250a8881d, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -2799,6 +2812,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1491 y\u0131l\u0131nda II. Bayezid taraf\u0131ndan mimar Abd\xFCl ula
+        bin Pulat \u015Eah'a yapt\u0131r\u0131lm\u0131\u015Ft\u0131r. Tarihsel olarak
+        ipek kozas\u0131 ticaretinin merkezi olmu\u015Ftur. Dikd\xF6rtgen planl\u0131,
+        iki katl\u0131, geni\u015F avlulu bir yap\u0131d\u0131r. Avlunun tam ortas\u0131nda
+        alt\u0131 \u015Fad\u0131rvan, \xFCst\xFC mescit olan sekizgen bir k\xF6\u015Fk
+        bulunur."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 3e0beea8bbbb1fc4e98d78c250a8881d, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -3269,6 +3295,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1491 y\u0131l\u0131nda II. Bayezid taraf\u0131ndan mimar Abd\xFCl ula
+        bin Pulat \u015Eah'a yapt\u0131r\u0131lm\u0131\u015Ft\u0131r. Tarihsel olarak
+        ipek kozas\u0131 ticaretinin merkezi olmu\u015Ftur. Dikd\xF6rtgen planl\u0131,
+        iki katl\u0131, geni\u015F avlulu bir yap\u0131d\u0131r. Avlunun tam ortas\u0131nda
+        alt\u0131 \u015Fad\u0131rvan, \xFCst\xFC mescit olan sekizgen bir k\xF6\u015Fk
+        bulunur."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 3e0beea8bbbb1fc4e98d78c250a8881d, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -4688,6 +4727,19 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1491 y\u0131l\u0131nda II. Bayezid taraf\u0131ndan mimar Abd\xFCl ula
+        bin Pulat \u015Eah'a yapt\u0131r\u0131lm\u0131\u015Ft\u0131r. Tarihsel olarak
+        ipek kozas\u0131 ticaretinin merkezi olmu\u015Ftur. Dikd\xF6rtgen planl\u0131,
+        iki katl\u0131, geni\u015F avlulu bir yap\u0131d\u0131r. Avlunun tam ortas\u0131nda
+        alt\u0131 \u015Fad\u0131rvan, \xFCst\xFC mescit olan sekizgen bir k\xF6\u015Fk
+        bulunur."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 3e0beea8bbbb1fc4e98d78c250a8881d, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi

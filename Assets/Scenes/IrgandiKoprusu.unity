@@ -2286,6 +2286,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1442 y\u0131l\u0131nda Hac\u0131 Muslihiddin taraf\u0131ndan yapt\u0131r\u0131lan,
+        G\xF6kdere \xFCzerinde yer alan ta\u015F kemerli k\xF6pr\xFCd\xFCr. \xD6zg\xFCn
+        yap\u0131s\u0131 gere\u011Fi \xFCzerinde d\xFCkkanlar bulunan \"arastal\u0131
+        k\xF6pr\xFC\" mimarisinin d\xFCnyadaki nadir \xF6rneklerinden biridir. Geleneksel
+        el sanatlar\u0131 at\xF6lyelerine ev sahipli\u011Fi yapar."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 44d074fca4a4d8c4a828ad8245c0c818, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -3284,6 +3296,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1442 y\u0131l\u0131nda Hac\u0131 Muslihiddin taraf\u0131ndan yapt\u0131r\u0131lan,
+        G\xF6kdere \xFCzerinde yer alan ta\u015F kemerli k\xF6pr\xFCd\xFCr. \xD6zg\xFCn
+        yap\u0131s\u0131 gere\u011Fi \xFCzerinde d\xFCkkanlar bulunan \"arastal\u0131
+        k\xF6pr\xFC\" mimarisinin d\xFCnyadaki nadir \xF6rneklerinden biridir. Geleneksel
+        el sanatlar\u0131 at\xF6lyelerine ev sahipli\u011Fi yapar."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 44d074fca4a4d8c4a828ad8245c0c818, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -4549,6 +4573,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1442 y\u0131l\u0131nda Hac\u0131 Muslihiddin taraf\u0131ndan yapt\u0131r\u0131lan,
+        G\xF6kdere \xFCzerinde yer alan ta\u015F kemerli k\xF6pr\xFCd\xFCr. \xD6zg\xFCn
+        yap\u0131s\u0131 gere\u011Fi \xFCzerinde d\xFCkkanlar bulunan \"arastal\u0131
+        k\xF6pr\xFC\" mimarisinin d\xFCnyadaki nadir \xF6rneklerinden biridir. Geleneksel
+        el sanatlar\u0131 at\xF6lyelerine ev sahipli\u011Fi yapar."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 44d074fca4a4d8c4a828ad8245c0c818, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -4887,6 +4923,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1442 y\u0131l\u0131nda Hac\u0131 Muslihiddin taraf\u0131ndan yapt\u0131r\u0131lan,
+        G\xF6kdere \xFCzerinde yer alan ta\u015F kemerli k\xF6pr\xFCd\xFCr. \xD6zg\xFCn
+        yap\u0131s\u0131 gere\u011Fi \xFCzerinde d\xFCkkanlar bulunan \"arastal\u0131
+        k\xF6pr\xFC\" mimarisinin d\xFCnyadaki nadir \xF6rneklerinden biridir. Geleneksel
+        el sanatlar\u0131 at\xF6lyelerine ev sahipli\u011Fi yapar."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 44d074fca4a4d8c4a828ad8245c0c818, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -5401,6 +5449,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1442 y\u0131l\u0131nda Hac\u0131 Muslihiddin taraf\u0131ndan yapt\u0131r\u0131lan,
+        G\xF6kdere \xFCzerinde yer alan ta\u015F kemerli k\xF6pr\xFCd\xFCr. \xD6zg\xFCn
+        yap\u0131s\u0131 gere\u011Fi \xFCzerinde d\xFCkkanlar bulunan \"arastal\u0131
+        k\xF6pr\xFC\" mimarisinin d\xFCnyadaki nadir \xF6rneklerinden biridir. Geleneksel
+        el sanatlar\u0131 at\xF6lyelerine ev sahipli\u011Fi yapar."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 44d074fca4a4d8c4a828ad8245c0c818, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -6804,6 +6864,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "1442 y\u0131l\u0131nda Hac\u0131 Muslihiddin taraf\u0131ndan yapt\u0131r\u0131lan,
+        G\xF6kdere \xFCzerinde yer alan ta\u015F kemerli k\xF6pr\xFCd\xFCr. \xD6zg\xFCn
+        yap\u0131s\u0131 gere\u011Fi \xFCzerinde d\xFCkkanlar bulunan \"arastal\u0131
+        k\xF6pr\xFC\" mimarisinin d\xFCnyadaki nadir \xF6rneklerinden biridir. Geleneksel
+        el sanatlar\u0131 at\xF6lyelerine ev sahipli\u011Fi yapar."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 44d074fca4a4d8c4a828ad8245c0c818, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi

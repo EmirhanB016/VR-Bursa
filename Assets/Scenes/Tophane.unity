@@ -1109,6 +1109,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Bursa Kalesi'nin ana giri\u015F kap\u0131s\u0131 olan Saltanat Kap\u0131s\u0131'n\u0131n
+        ve surlar\u0131n bulundu\u011Fu b\xF6lgedir. Alan i\xE7erisinde Osmanl\u0131
+        Devleti'nin kurucusu Osman Gazi ve o\u011Flu Orhan Gazi'nin t\xFCrbeleri
+        yer al\u0131r. Ayr\u0131ca 1905 y\u0131l\u0131nda yap\u0131lm\u0131\u015F
+        olan 6 katl\u0131 Tarihi Saat Kulesi de bu alandad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 436d01c68daf10c489530ab1630518b1, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -1373,6 +1385,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Bursa Kalesi'nin ana giri\u015F kap\u0131s\u0131 olan Saltanat Kap\u0131s\u0131'n\u0131n
+        ve surlar\u0131n bulundu\u011Fu b\xF6lgedir. Alan i\xE7erisinde Osmanl\u0131
+        Devleti'nin kurucusu Osman Gazi ve o\u011Flu Orhan Gazi'nin t\xFCrbeleri
+        yer al\u0131r. Ayr\u0131ca 1905 y\u0131l\u0131nda yap\u0131lm\u0131\u015F
+        olan 6 katl\u0131 Tarihi Saat Kulesi de bu alandad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 436d01c68daf10c489530ab1630518b1, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -1557,6 +1581,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Bursa Kalesi'nin ana giri\u015F kap\u0131s\u0131 olan Saltanat Kap\u0131s\u0131'n\u0131n
+        ve surlar\u0131n bulundu\u011Fu b\xF6lgedir. Alan i\xE7erisinde Osmanl\u0131
+        Devleti'nin kurucusu Osman Gazi ve o\u011Flu Orhan Gazi'nin t\xFCrbeleri
+        yer al\u0131r. Ayr\u0131ca 1905 y\u0131l\u0131nda yap\u0131lm\u0131\u015F
+        olan 6 katl\u0131 Tarihi Saat Kulesi de bu alandad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 436d01c68daf10c489530ab1630518b1, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -5809,6 +5845,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Bursa Kalesi'nin ana giri\u015F kap\u0131s\u0131 olan Saltanat Kap\u0131s\u0131'n\u0131n
+        ve surlar\u0131n bulundu\u011Fu b\xF6lgedir. Alan i\xE7erisinde Osmanl\u0131
+        Devleti'nin kurucusu Osman Gazi ve o\u011Flu Orhan Gazi'nin t\xFCrbeleri
+        yer al\u0131r. Ayr\u0131ca 1905 y\u0131l\u0131nda yap\u0131lm\u0131\u015F
+        olan 6 katl\u0131 Tarihi Saat Kulesi de bu alandad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 436d01c68daf10c489530ab1630518b1, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -7433,6 +7481,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Bursa Kalesi'nin ana giri\u015F kap\u0131s\u0131 olan Saltanat Kap\u0131s\u0131'n\u0131n
+        ve surlar\u0131n bulundu\u011Fu b\xF6lgedir. Alan i\xE7erisinde Osmanl\u0131
+        Devleti'nin kurucusu Osman Gazi ve o\u011Flu Orhan Gazi'nin t\xFCrbeleri
+        yer al\u0131r. Ayr\u0131ca 1905 y\u0131l\u0131nda yap\u0131lm\u0131\u015F
+        olan 6 katl\u0131 Tarihi Saat Kulesi de bu alandad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 436d01c68daf10c489530ab1630518b1, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -9127,6 +9187,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Bursa Kalesi'nin ana giri\u015F kap\u0131s\u0131 olan Saltanat Kap\u0131s\u0131'n\u0131n
+        ve surlar\u0131n bulundu\u011Fu b\xF6lgedir. Alan i\xE7erisinde Osmanl\u0131
+        Devleti'nin kurucusu Osman Gazi ve o\u011Flu Orhan Gazi'nin t\xFCrbeleri
+        yer al\u0131r. Ayr\u0131ca 1905 y\u0131l\u0131nda yap\u0131lm\u0131\u015F
+        olan 6 katl\u0131 Tarihi Saat Kulesi de bu alandad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 436d01c68daf10c489530ab1630518b1, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -9429,6 +9501,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Bursa Kalesi'nin ana giri\u015F kap\u0131s\u0131 olan Saltanat Kap\u0131s\u0131'n\u0131n
+        ve surlar\u0131n bulundu\u011Fu b\xF6lgedir. Alan i\xE7erisinde Osmanl\u0131
+        Devleti'nin kurucusu Osman Gazi ve o\u011Flu Orhan Gazi'nin t\xFCrbeleri
+        yer al\u0131r. Ayr\u0131ca 1905 y\u0131l\u0131nda yap\u0131lm\u0131\u015F
+        olan 6 katl\u0131 Tarihi Saat Kulesi de bu alandad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 436d01c68daf10c489530ab1630518b1, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -9495,6 +9579,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Bursa Kalesi'nin ana giri\u015F kap\u0131s\u0131 olan Saltanat Kap\u0131s\u0131'n\u0131n
+        ve surlar\u0131n bulundu\u011Fu b\xF6lgedir. Alan i\xE7erisinde Osmanl\u0131
+        Devleti'nin kurucusu Osman Gazi ve o\u011Flu Orhan Gazi'nin t\xFCrbeleri
+        yer al\u0131r. Ayr\u0131ca 1905 y\u0131l\u0131nda yap\u0131lm\u0131\u015F
+        olan 6 katl\u0131 Tarihi Saat Kulesi de bu alandad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 436d01c68daf10c489530ab1630518b1, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -10300,6 +10396,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Bursa Kalesi'nin ana giri\u015F kap\u0131s\u0131 olan Saltanat Kap\u0131s\u0131'n\u0131n
+        ve surlar\u0131n bulundu\u011Fu b\xF6lgedir. Alan i\xE7erisinde Osmanl\u0131
+        Devleti'nin kurucusu Osman Gazi ve o\u011Flu Orhan Gazi'nin t\xFCrbeleri
+        yer al\u0131r. Ayr\u0131ca 1905 y\u0131l\u0131nda yap\u0131lm\u0131\u015F
+        olan 6 katl\u0131 Tarihi Saat Kulesi de bu alandad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 436d01c68daf10c489530ab1630518b1, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -12491,6 +12599,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Bursa Kalesi'nin ana giri\u015F kap\u0131s\u0131 olan Saltanat Kap\u0131s\u0131'n\u0131n
+        ve surlar\u0131n bulundu\u011Fu b\xF6lgedir. Alan i\xE7erisinde Osmanl\u0131
+        Devleti'nin kurucusu Osman Gazi ve o\u011Flu Orhan Gazi'nin t\xFCrbeleri
+        yer al\u0131r. Ayr\u0131ca 1905 y\u0131l\u0131nda yap\u0131lm\u0131\u015F
+        olan 6 katl\u0131 Tarihi Saat Kulesi de bu alandad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 436d01c68daf10c489530ab1630518b1, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -12711,6 +12831,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Bursa Kalesi'nin ana giri\u015F kap\u0131s\u0131 olan Saltanat Kap\u0131s\u0131'n\u0131n
+        ve surlar\u0131n bulundu\u011Fu b\xF6lgedir. Alan i\xE7erisinde Osmanl\u0131
+        Devleti'nin kurucusu Osman Gazi ve o\u011Flu Orhan Gazi'nin t\xFCrbeleri
+        yer al\u0131r. Ayr\u0131ca 1905 y\u0131l\u0131nda yap\u0131lm\u0131\u015F
+        olan 6 katl\u0131 Tarihi Saat Kulesi de bu alandad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 436d01c68daf10c489530ab1630518b1, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -12777,6 +12909,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Bursa Kalesi'nin ana giri\u015F kap\u0131s\u0131 olan Saltanat Kap\u0131s\u0131'n\u0131n
+        ve surlar\u0131n bulundu\u011Fu b\xF6lgedir. Alan i\xE7erisinde Osmanl\u0131
+        Devleti'nin kurucusu Osman Gazi ve o\u011Flu Orhan Gazi'nin t\xFCrbeleri
+        yer al\u0131r. Ayr\u0131ca 1905 y\u0131l\u0131nda yap\u0131lm\u0131\u015F
+        olan 6 katl\u0131 Tarihi Saat Kulesi de bu alandad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 436d01c68daf10c489530ab1630518b1, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -13527,6 +13671,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Bursa Kalesi'nin ana giri\u015F kap\u0131s\u0131 olan Saltanat Kap\u0131s\u0131'n\u0131n
+        ve surlar\u0131n bulundu\u011Fu b\xF6lgedir. Alan i\xE7erisinde Osmanl\u0131
+        Devleti'nin kurucusu Osman Gazi ve o\u011Flu Orhan Gazi'nin t\xFCrbeleri
+        yer al\u0131r. Ayr\u0131ca 1905 y\u0131l\u0131nda yap\u0131lm\u0131\u015F
+        olan 6 katl\u0131 Tarihi Saat Kulesi de bu alandad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 436d01c68daf10c489530ab1630518b1, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi2
@@ -15268,6 +15424,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1731298971}
+    - target: {fileID: 6829332510865142873, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_text
+      value: "Bursa Kalesi'nin ana giri\u015F kap\u0131s\u0131 olan Saltanat Kap\u0131s\u0131'n\u0131n
+        ve surlar\u0131n bulundu\u011Fu b\xF6lgedir. Alan i\xE7erisinde Osmanl\u0131
+        Devleti'nin kurucusu Osman Gazi ve o\u011Flu Orhan Gazi'nin t\xFCrbeleri
+        yer al\u0131r. Ayr\u0131ca 1905 y\u0131l\u0131nda yap\u0131lm\u0131\u015F
+        olan 6 katl\u0131 Tarihi Saat Kulesi de bu alandad\u0131r."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 436d01c68daf10c489530ab1630518b1, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi
