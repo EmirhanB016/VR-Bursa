@@ -517,6 +517,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 246.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 49.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 41.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.05
+      objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: UluCami
@@ -3014,6 +3030,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 246.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 49.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 41.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.05
+      objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: UluCami
@@ -3806,6 +3838,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 246.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 49.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 41.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.05
+      objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: UluCami
@@ -4479,6 +4527,22 @@ PrefabInstance:
     - target: {fileID: 3113285601813651840, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 246.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 49.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 41.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.05
       objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
@@ -6787,6 +6851,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 246.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 49.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 41.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.05
+      objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: UluCami
@@ -7488,6 +7568,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 246.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 49.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 41.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.05
+      objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: UluCami
@@ -7724,6 +7820,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 246.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 49.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 41.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.05
+      objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: UluCami
@@ -7877,6 +7989,22 @@ PrefabInstance:
     - target: {fileID: 3113285601813651840, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 246.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 49.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 41.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.05
       objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
@@ -9285,6 +9413,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 246.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 49.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 41.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.05
+      objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: UluCami
@@ -10320,6 +10464,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 246.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 49.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 41.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.05
+      objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: UluCami
@@ -10739,6 +10899,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 246.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 49.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 41.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.05
+      objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: UluCami
@@ -10856,6 +11032,22 @@ PrefabInstance:
     - target: {fileID: 3113285601813651840, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 246.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 49.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 41.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.05
       objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
@@ -11077,6 +11269,22 @@ PrefabInstance:
     - target: {fileID: 3113285601813651840, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 246.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 49.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 41.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.05
       objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
@@ -12375,6 +12583,22 @@ PrefabInstance:
     - target: {fileID: 3113285601813651840, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 246.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 49.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 41.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.05
       objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
@@ -13945,6 +14169,22 @@ PrefabInstance:
     - target: {fileID: 3113285601813651840, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 246.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 49.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 41.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.05
       objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
@@ -15697,6 +15937,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 246.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 49.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 41.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.05
+      objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: UluCami
@@ -16318,6 +16574,22 @@ PrefabInstance:
     - target: {fileID: 3113285601813651840, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 246.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 49.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 41.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.05
       objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
@@ -17028,6 +17300,10 @@ PrefabInstance:
       propertyPath: m_fontSizeBase
       value: 22
       objectReference: {fileID: 0}
+    - target: {fileID: 7084198664347524036, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 9836a0ce87d5aa549a5bff3a6f74d720, type: 3}
     - target: {fileID: 7381974818741449252, guid: d4722ab3c958a8a48a66ce554a801ca7, type: 3}
       propertyPath: m_Name
       value: BilgiNoktasi

@@ -848,13 +848,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 304.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 12.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 12.5
+      objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: MuradiyeKulliyesi
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_text
-      value: MuradiyeKulliyesi
+      value: 'Muradiye
+
+        Kulliyesi'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6831531575368875901, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_PresetInfoIsWorld
@@ -966,13 +988,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 319.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 5.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 12.5
+      objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: IrgandiKoprusu
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_text
-      value: IrgandiKoprusu
+      value: 'Irgandi
+
+        Koprusu'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6831531575368875901, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_PresetInfoIsWorld
@@ -1084,13 +1128,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 319.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 5.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 12.5
+      objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: IrgandiKoprusu
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_text
-      value: IrgandiKoprusu
+      value: 'Irgandi
+
+        Koprusu'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6831531575368875901, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_PresetInfoIsWorld
@@ -1400,13 +1466,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 319.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 5.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 12.5
+      objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: IrgandiKoprusu
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_text
-      value: IrgandiKoprusu
+      value: 'Irgandi
+
+        Koprusu'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6831531575368875901, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_PresetInfoIsWorld
@@ -2264,13 +2352,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 304.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 12.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 12.5
+      objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: MuradiyeKulliyesi
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_text
-      value: MuradiyeKulliyesi
+      value: 'Muradiye
+
+        Kulliyesi'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6831531575368875901, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_PresetInfoIsWorld
@@ -2382,13 +2492,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 304.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 12.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 12.5
+      objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: MuradiyeKulliyesi
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_text
-      value: MuradiyeKulliyesi
+      value: 'Muradiye
+
+        Kulliyesi'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6831531575368875901, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_PresetInfoIsWorld
@@ -2500,13 +2632,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 304.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 12.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 12.5
+      objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: MuradiyeKulliyesi
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_text
-      value: MuradiyeKulliyesi
+      value: 'Muradiye
+
+        Kulliyesi'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6831531575368875901, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_PresetInfoIsWorld
@@ -4333,13 +4487,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 319.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 5.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 12.5
+      objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: IrgandiKoprusu
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_text
-      value: IrgandiKoprusu
+      value: 'Irgandi
+
+        Koprusu'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6831531575368875901, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_PresetInfoIsWorld
@@ -4850,13 +5026,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 319.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 5.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 12.5
+      objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: IrgandiKoprusu
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_text
-      value: IrgandiKoprusu
+      value: 'Irgandi
+
+        Koprusu'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6831531575368875901, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_PresetInfoIsWorld
@@ -5166,13 +5364,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 304.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 12.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520551356947294076, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 12.5
+      objectReference: {fileID: 0}
     - target: {fileID: 5094080239965773006, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_SelectEntered.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: MuradiyeKulliyesi
       objectReference: {fileID: 0}
     - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_text
-      value: MuradiyeKulliyesi
+      value: 'Muradiye
+
+        Kulliyesi'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6663081598308577949, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6831531575368875901, guid: 30c9886d012d0c8489eb236e5bb35b10, type: 3}
       propertyPath: m_PresetInfoIsWorld
